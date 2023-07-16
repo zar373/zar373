@@ -11,8 +11,8 @@
 
 
 - 🔭 I’m currently working on modifying my data scientist skills.
-- 🌱 I’m a passioante coder and quick learner
-- 💬 Ask me about pandas, numpy and data visualization
+- 🌱 I’m a passionate coder and quick learner.
+- 💬 Ask me about pandas, numpy, and data visualization.
 - 📫 How to reach me:
    - :email:[Email Me](zargul.ansari373@gmail.com)
    - :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
