@@ -10,14 +10,14 @@
 ### Hi there 👋 I am Zargul
 I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I am a passionate coder and actively working on my data science skills.
   
-- ## 💬 Ask me about/What I can do;
-- Back-end development using **Django**.
-- Full Stack development using **MERN Stack**(Still Learning)
-- Data Analysis using **MS Excel, Python(Pandas)**
-- Data Visualization using **Power BI, Tableau, Pandas(Matplotlib, Seaborn)**
-- Machine Learning using **Pytorch, Scikit-learn, TensorFlow**(Still Learning)
-- Crafting Software Diagrams
-- Solving Data Structure and Algorithm Questions using **Python**
+ ## 💬 Ask me about/What I can do;
+ * Back-end development using **Django**.
+ * Full Stack development using **MERN Stack**(Still Learning)
+ * Data Analysis using **MS Excel, Python(Pandas)**
+ * Data Visualization using **Power BI, Tableau, Pandas(Matplotlib, Seaborn)**
+ * Machine Learning using **Pytorch, Scikit-learn, TensorFlow**(Still Learning)
+ * Crafting Software Diagrams
+ * Solving Data Structure and Algorithm Questions using **Python**
 
   <!-- Communities:
   -->
