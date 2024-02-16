@@ -12,10 +12,8 @@
 
 - 🔭 I’m currently working on modifying my data scientist skills.
 - 🌱 I’m a passionate coder and quick learner.
-- 💬 Ask me about pandas, numpy, and data visualization.
-- 📫 How to reach me:
-   - :email:[Email Me](zargul.ansari373@gmail.com)
-   - :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
+- 💬 Ask me anything about Django, Data Analysis and Visualization 
+
 
 
 
@@ -40,4 +38,13 @@
             
           
 </p>
+
+
+
+
+
+- 📫 How to reach me:
+   - :email:[Email Me](zargul.ansari373@gmail.com)
+   - :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
+   - :round_pushpin:[Twitter](https://twitter.com/zar_373)
 
