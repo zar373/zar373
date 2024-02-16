@@ -49,10 +49,10 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 
 
 
-- ## 📫 How to reach me:
-   - :email:[Email Me](zargul.ansari373@gmail.com)
-   - :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
-   - :round_pushpin:[Twitter](https://twitter.com/zar_373)
+## 📫 How to reach me:
+   * :email:[Email Me](zargul.ansari373@gmail.com)
+   * :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
+   * :round_pushpin:[Twitter](https://twitter.com/zar_373)
    <!-- - :🎯 Portfolio site: [Portfolio]()
   - :page_with_curl:[My Blog]() -->
   
