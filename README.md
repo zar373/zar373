@@ -13,7 +13,7 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
  ## 💬 Ask me about/What I can do;
  * Back-end development using **Django**.
  * Full Stack development using **MERN Stack**(Still Learning)
- * Data Analysis using **MS Excel, Python(Pandas)**
+ * Data Analysis using **MS Excel, Python(Numpy, Pandas), SQL**
  * Data Visualization using **Power BI, Tableau, Pandas(Matplotlib, Seaborn)**
  * Machine Learning using **Pytorch, Scikit-learn, TensorFlow**(Still Learning)
  * Solving Data Structure and Algorithm Questions using **Python**
