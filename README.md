@@ -11,11 +11,12 @@
 I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I am a passionate coder and actively working on my data science skills.
   
  ## 💬 Ask me about/What I can do;
- * Back-end development using **Django**.
- * Full Stack development using **MERN Stack**(Still Learning)
+ 
  * Data Analysis using **MS Excel, Python(Numpy, Pandas), SQL**
  * Data Visualization using **Power BI, Tableau, Pandas(Matplotlib, Seaborn)**
  * Machine Learning using **Pytorch, Scikit-learn, TensorFlow**(Still Learning)
+ * Back-end development using **Django**.
+ * Full Stack development using **MERN Stack**(Still Learning)
  * Solving Data Structure and Algorithm Questions using **Python**
  * Software Testing through **Cypress, Selenium, Jest**(Still Learning)
  * Crafting Software Diagrams
@@ -32,7 +33,7 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zar373)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> ✨ &nbsp;Overall Tools I have Ineracted with</h2>
-<p align="left">
+<p align="middle">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
