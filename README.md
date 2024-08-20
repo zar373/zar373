@@ -44,6 +44,7 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
             
           
 </p>
@@ -57,7 +58,14 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
    * :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
    * :round_pushpin:[Twitter](https://twitter.com/zar_373)
    <!-- - :🎯 Portfolio site: [Portfolio]()
+     *  💻[HackerRank](https://twitter.com/zar_373)
+
   - :page_with_curl:[My Blog]() -->
-  
+
+## 🌎 Other sites:
+   *  📈[DataCamp](https://www.datacamp.com/portfolio/zargulansari373)
+   *  📊[Kaggle](https://www.kaggle.com/zargulansari)
+     
+ 
   
 
