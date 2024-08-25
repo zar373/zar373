@@ -51,7 +51,6 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zar373)](https://git.io/streak-stats)
 
 ## 📫 How to reach me:
    * :email:[Email Me](zargul.ansari373@gmail.com)
@@ -60,7 +59,9 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
    <!-- - :🎯 Portfolio site: [Portfolio]()
      *  💻[HackerRank](https://twitter.com/zar_373)
 
-  - :page_with_curl:[My Blog]() -->
+  - :page_with_curl:[My Blog]()
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=zar373)](https://git.io/streak-stats)
+-->
 
 ## 🌎 Other sites:
    *  📈[DataCamp](https://www.datacamp.com/portfolio/zargulansari373)
