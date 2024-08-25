@@ -51,7 +51,7 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zar373)](https://git.io/streak-stats)
 
 ## 📫 How to reach me:
    * :email:[Email Me](zargul.ansari373@gmail.com)
