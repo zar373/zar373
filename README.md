@@ -31,7 +31,7 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=zar373&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zar373)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zar373)](https://git.io/streak-stats)
+
 
 <h2> ✨ &nbsp;Overall Tools I have Ineracted with</h2>
 <p align="middle">
