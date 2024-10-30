@@ -35,7 +35,7 @@ I am currently doing Bachelor of Engineering in Computer Systems from NEDUET. I 
 
 
 
-<h2> ✨ &nbsp;Overall Tools I have Ineracted with</h2>
+<h2> ✨ &nbsp;Overall Programming Languages/ Tools I have Ineracted with</h2>
 <p align="middle">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
