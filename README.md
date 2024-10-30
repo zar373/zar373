@@ -9,7 +9,7 @@
 - 🌱 passionate coder and quick learner.-->
 
 ### Hi there 👋 I am Zargul
-I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I am a passionate coder and actively working on my data science skills.
+I am currently doing Bachelor of Engineering in Computer Systems from NEDUET. I am a passionate coder and actively working on my data science skills.
   
  ## 💬 Ask me about/What I can do;
  
