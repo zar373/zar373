@@ -5,8 +5,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 💬 Ask me anything about Django, Data Analysis and Visualization. - 🔭 currently working on modifying my data scientist skills.
-- 🌱 passionate coder and quick learner.-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zar373" alt="zar373" /> </p>
+- 🌱 passionate coder and quick learner.-->
+
 ### Hi there 👋 I am Zargul
 I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I am a passionate coder and actively working on my data science skills.
   
@@ -72,7 +73,7 @@ I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zar373)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## 🌎 Other sites:
+## 🌎 Other Links:
    *  📈[DataCamp](https://www.datacamp.com/portfolio/zargulansari373)
    *  📊[Kaggle](https://www.kaggle.com/zargulansari)
      
