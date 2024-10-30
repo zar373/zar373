@@ -6,7 +6,7 @@
 - ⚡ Fun fact: ...
 💬 Ask me anything about Django, Data Analysis and Visualization. - 🔭 currently working on modifying my data scientist skills.
 - 🌱 passionate coder and quick learner.-->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zar373" alt="zar373" /> </p>
 ### Hi there 👋 I am Zargul
 I am currently doing Bachlor's of Engineering in Computer Systems from NEDUET. I am a passionate coder and actively working on my data science skills.
   
