@@ -18,7 +18,6 @@ I am currently doing Bachelor of Engineering in Computer Systems from NEDUET. I 
  * Machine Learning using **Pytorch, Scikit-learn, TensorFlow**(Still Learning)
  * Back-end development using **Django, Next.js**.
  * Solving Data Structure and Algorithm Questions using **Python**
- * Software Testing through **Cypress, Selenium, Jest**
  * Crafting Software Diagrams
    
 
