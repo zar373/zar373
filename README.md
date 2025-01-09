@@ -13,9 +13,10 @@ I am currently doing Bachelor of Engineering in Computer Systems from NEDUET. I 
   
  ## 💬 Ask me about/What I can do;
  
- * Data Analysis using **MS Excel, Python(Numpy, Pandas), SQL**
- * Data Visualization using **Tableau, Power BI, Pandas(Matplotlib, Seaborn)**
  * Machine Learning using **Pytorch, Scikit-learn, TensorFlow**(Still Learning)
+ *  ETL Pipelines using **Azure**
+ * Data Analysis using **MS Excel, Python, SQL**
+ * Data Visualization using **Tableau, Power BI**
  * Back-end development using **Django, Next.js**.
  * Solving Data Structure and Algorithm Questions using **Python**
  * Crafting Software Diagrams
