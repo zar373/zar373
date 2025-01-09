@@ -64,7 +64,7 @@ I am currently doing Bachelor of Engineering in Computer Systems from NEDUET. I 
    * :computer:[LinkedIn](https://www.linkedin.com/in/zargul-ansari/)
    * :round_pushpin:[Twitter](https://twitter.com/zar_373)
 
-## 🎯 Portfolio site: [Portfolio](https://zargul-ansari-portfolio.vercel.app/)
+
    <!-- - :
      *  💻[HackerRank](https://twitter.com/zar_373)
 
@@ -77,7 +77,8 @@ I am currently doing Bachelor of Engineering in Computer Systems from NEDUET. I 
 ## 🌎 Other Links:
    *  📈[DataCamp](https://www.datacamp.com/portfolio/zargulansari373)
    *  📊[Kaggle](https://www.kaggle.com/zargulansari)
-     
+
+# 🎯 Portfolio site: [Portfolio](https://zargul-ansari-portfolio.vercel.app/)
  
   
 
